@@ -1,0 +1,109 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 18:19 ?        00:00:02 /sbin/init
+root           2       0  0 18:19 ?        00:00:00 [kthreadd]
+root           3       2  0 18:19 ?        00:00:00 [rcu_gp]
+root           4       2  0 18:19 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 18:19 ?        00:00:00 [slub_flushwq]
+root           6       2  0 18:19 ?        00:00:00 [netns]
+root           8       2  0 18:19 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          10       2  0 18:19 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 18:19 ?        00:00:00 [rcu_tasks_rude_]
+root          12       2  0 18:19 ?        00:00:00 [rcu_tasks_trace]
+root          13       2  0 18:19 ?        00:00:00 [ksoftirqd/0]
+root          14       2  0 18:19 ?        00:00:02 [rcu_sched]
+root          15       2  0 18:19 ?        00:00:00 [migration/0]
+root          16       2  0 18:19 ?        00:00:00 [idle_inject/0]
+root          18       2  0 18:19 ?        00:00:00 [cpuhp/0]
+root          19       2  0 18:19 ?        00:00:00 [kdevtmpfs]
+root          20       2  0 18:19 ?        00:00:00 [inet_frag_wq]
+root          21       2  0 18:19 ?        00:00:00 [kauditd]
+root          22       2  0 18:19 ?        00:00:00 [khungtaskd]
+root          23       2  0 18:19 ?        00:00:00 [oom_reaper]
+root          24       2  0 18:19 ?        00:00:00 [writeback]
+root          25       2  0 18:19 ?        00:00:01 [kcompactd0]
+root          26       2  0 18:19 ?        00:00:00 [ksmd]
+root          27       2  0 18:19 ?        00:00:00 [khugepaged]
+root          73       2  0 18:19 ?        00:00:00 [kintegrityd]
+root          74       2  0 18:19 ?        00:00:00 [kblockd]
+root          75       2  0 18:19 ?        00:00:00 [blkcg_punt_bio]
+root          76       2  0 18:19 ?        00:00:00 [tpm_dev_wq]
+root          77       2  0 18:19 ?        00:00:00 [ata_sff]
+root          78       2  0 18:19 ?        00:00:00 [md]
+root          79       2  0 18:19 ?        00:00:00 [edac-poller]
+root          80       2  0 18:19 ?        00:00:00 [devfreq_wq]
+root          81       2  0 18:19 ?        00:00:00 [watchdogd]
+root          83       2  0 18:19 ?        00:00:00 [kworker/0:1H-kblockd]
+root          85       2  0 18:19 ?        00:00:00 [kswapd0]
+root          86       2  0 18:19 ?        00:00:00 [ecryptfs-kthrea]
+root          88       2  0 18:19 ?        00:00:00 [kthrotld]
+root          89       2  0 18:19 ?        00:00:00 [acpi_thermal_pm]
+root          91       2  0 18:19 ?        00:00:00 [scsi_eh_0]
+root          92       2  0 18:19 ?        00:00:00 [scsi_tmf_0]
+root          93       2  0 18:19 ?        00:00:00 [scsi_eh_1]
+root          94       2  0 18:19 ?        00:00:00 [scsi_tmf_1]
+root          96       2  0 18:19 ?        00:00:00 [vfio-irqfd-clea]
+root          98       2  0 18:19 ?        00:00:00 [mld]
+root          99       2  0 18:19 ?        00:00:00 [ipv6_addrconf]
+root         110       2  0 18:19 ?        00:00:00 [kstrp]
+root         113       2  0 18:19 ?        00:00:00 [zswap-shrink]
+root         114       2  0 18:19 ?        00:00:00 [kworker/u3:0]
+root         119       2  0 18:19 ?        00:00:00 [charger_manager]
+root         159       2  0 18:19 ?        00:00:00 [scsi_eh_2]
+root         160       2  0 18:19 ?        00:00:00 [scsi_tmf_2]
+root         161       2  0 18:19 ?        00:00:00 [cryptd]
+root         194       2  0 18:19 ?        00:00:00 [ttm_swap]
+root         195       2  0 18:19 ?        00:00:02 [irq/18-vmwgfx]
+root         197       2  0 18:19 ?        00:00:00 [card0-crtc0]
+root         200       2  0 18:19 ?        00:00:00 [card0-crtc1]
+root         202       2  0 18:19 ?        00:00:00 [card0-crtc2]
+root         204       2  0 18:19 ?        00:00:00 [card0-crtc3]
+root         207       2  0 18:19 ?        00:00:00 [card0-crtc4]
+root         209       2  0 18:19 ?        00:00:00 [card0-crtc5]
+root         211       2  0 18:19 ?        00:00:00 [card0-crtc6]
+root         213       2  0 18:19 ?        00:00:00 [card0-crtc7]
+root         221       2  0 18:19 ?        00:00:00 [kdmflush]
+root         247       2  0 18:19 ?        00:00:00 [raid5wq]
+root         298       2  0 18:19 ?        00:00:00 [jbd2/dm-0-8]
+root         299       2  0 18:19 ?        00:00:00 [ext4-rsv-conver]
+root         369       1  0 18:19 ?        00:00:00 /lib/systemd/systemd-journald
+root         404       2  0 18:19 ?        00:00:00 [kaluad]
+root         406       2  0 18:19 ?        00:00:00 [kmpath_rdacd]
+root         408       2  0 18:19 ?        00:00:00 [kmpathd]
+root         410       2  0 18:19 ?        00:00:00 [kmpath_handlerd]
+root         411       1  0 18:19 ?        00:00:00 /lib/systemd/systemd-udevd
+root         412       1  0 18:19 ?        00:00:01 /sbin/multipathd -d -s
+root         546       2  0 18:19 ?        00:00:00 [jbd2/sda2-8]
+root         549       2  0 18:19 ?        00:00:00 [ext4-rsv-conver]
+systemd+     576       1  0 18:19 ?        00:00:00 /lib/systemd/systemd-timesyncd
+systemd+     619       1  0 18:19 ?        00:00:00 /lib/systemd/systemd-networkd
+systemd+     621       1  0 18:19 ?        00:00:00 /lib/systemd/systemd-resolved
+root         632       1  0 18:19 ?        00:00:00 /usr/sbin/cron -f -P
+message+     634       1  0 18:19 ?        00:00:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         640       1  0 18:19 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         641       1  0 18:19 ?        00:00:00 /usr/libexec/polkitd --no-debug
+syslog       642       1  0 18:19 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         644       1  0 18:19 ?        00:00:05 /usr/lib/snapd/snapd
+root         646       1  0 18:19 ?        00:00:00 /lib/systemd/systemd-logind
+root         648       1  0 18:19 ?        00:00:00 /usr/libexec/udisks2/udisksd
+root         652       1  0 18:19 tty1     00:00:00 /bin/login -p --
+root         680       1  0 18:19 ?        00:00:00 /usr/sbin/ModemManager
+root         686       1  0 18:19 ?        00:00:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root         695       1  0 18:19 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+misplace     933       1  0 18:19 ?        00:00:00 /lib/systemd/systemd --user
+misplace     934     933  0 18:19 ?        00:00:00 (sd-pam)
+misplace     940     652  0 18:19 tty1     00:00:00 -bash
+root         953     686  0 18:20 ?        00:00:00 sshd: misplace [priv]
+misplace     999     953  0 18:20 ?        00:00:00 sshd: misplace@pts/0
+misplace    1000     999  0 18:20 pts/0    00:00:00 -bash
+root        1170       2  0 18:24 ?        00:00:00 [kworker/0:13-cgroup_destroy]
+root        1993       1  0 20:23 ?        00:00:00 /usr/libexec/packagekitd
+root        2947     686  0 21:32 ?        00:00:00 sshd: misplace [priv]
+misplace    3043    2947  0 21:33 ?        00:00:00 sshd: misplace@pts/1
+misplace    3044    3043  0 21:33 pts/1    00:00:00 -bash
+root        3070       2  0 21:47 ?        00:00:00 [kworker/u2:1-events_unbound]
+root        3089       1  0 21:52 ?        00:00:01 /usr/libexec/fwupd/fwupd
+root        3094       1  0 21:52 ?        00:00:00 /usr/libexec/upowerd
+root        3120       1  0 21:52 ?        00:00:00 gpg-agent --homedir /var/lib/fwupd/gnupg --use-standard-socket --daemon
+root        3132       2  0 21:52 ?        00:00:00 [kworker/u2:3-events_unbound]
+root        3133       2  0 21:52 ?        00:00:00 [kworker/0:1-events]
+misplace    3165    1000  0 21:59 pts/0    00:00:00 ps -ef
